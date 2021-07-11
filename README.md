@@ -5,4 +5,4 @@
 ### Demo title
 
 1. Latest readme is here xD
-2. Lorem
+2. Lorem is love
